@@ -1,9 +1,6 @@
 # Inventory_Management_API
 alx capstone project
 
-# Inventory_Management_API
-alx capstone project
-
 1. Project Title and Description
 Title: Inventory Management API
 Description:

@@ -6,7 +6,7 @@ Title: Inventory Management API
 Description:
 This project involves developing a RESTful API to manage a store's inventory. The API will allow authorized users to perform CRUD operations for inventory items and users. Additionally, it will provide an endpoint to view real-time inventory levels. The API will utilize Django ORM for database interactions and will be deployed on PythonAnywhere for accessibility.
 
-2. Core Features and Functionality
+2. Core Features and Functionality33
 Inventory Management:
 Add new inventory items.
 Update existing inventory details.

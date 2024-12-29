@@ -93,11 +93,11 @@ WSGI_APPLICATION = 'InventoryM_API.wsgi.application'
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
 DATABASES = {
-    'localDB': {
+    'default': {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': BASE_DIR / 'db.sqlite3',
     },
-    "default":{
+    "localDB":{
         "ENGINE": "django.db.backends.mysql",
         "NAME": "jbrtechs_inventory_api",
         "USER": "jbrtechs_admin",

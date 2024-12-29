@@ -99,10 +99,10 @@ DATABASES = {
     },
     "default":{
         "ENGINE": "django.db.backends.mysql",
-        "NAME": "inventory_api",
-        "USER": "root",
-        "PASSWORD": "",
-        "HOST": "127.0.0.1",
+        "NAME": "jbrtechs_inventory_api",
+        "USER": "jbrtechs_admin",
+        "PASSWORD": "!Jbr$$001",
+        "HOST": "localhost",
         "PORT": "3306",
         # "NAME": BASE_DIR / "db.sqlite3",
         "OPTIONS": {

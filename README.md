@@ -39,8 +39,8 @@ GET /inventory/levels/ - Retrieve real-time inventory levels.
 
 4. Tools and Libraries to Use
 Development Tools:
-Python 3.x
-Django 4.x
+Python 3.11
+Django 4.2
 Django REST Framework (DRF)
 Database and ORM:
 MySQL Database

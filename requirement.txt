@@ -2,6 +2,7 @@ django
 djangorestframework
 djangorestframework-simplejwt
 django-filter
+install mysqlclient
 
 
 

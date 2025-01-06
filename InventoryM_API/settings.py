@@ -101,7 +101,7 @@ DATABASES = {
         "ENGINE": "django.db.backends.mysql",
         "NAME": "jbrtechs_inventory_api",
         "USER": "jbrtechs_admin",
-        "PASSWORD": "!Jbr$$001",
+        "PASSWORD": "",
         "HOST": "localhost",
         "PORT": "3306",
         # "NAME": BASE_DIR / "db.sqlite3",

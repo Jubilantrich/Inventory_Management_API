@@ -104,11 +104,11 @@ DATABASES = {
             "ssl": {"require": True},
         },
     },
-    'alter': {
+    'default': {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': BASE_DIR / 'db.sqlite3',
     },
-    "default":{
+    "alt":{
         "ENGINE": "django.db.backends.mysql",
         "NAME": "jbrtechs_inventory_api",
         "USER": "jbrtechs_admin",

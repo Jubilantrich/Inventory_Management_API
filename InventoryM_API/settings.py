@@ -100,6 +100,9 @@ DATABASES = {
         "PASSWORD": "!@JbrDev$$1990",
         "HOST": "localhost",
         "PORT": "5432", # default PostgreSQL port
+        "OPTIONS": {
+            "ssl": {"require": True},
+        },
     },
     'alter': {
         'ENGINE': 'django.db.backends.sqlite3',

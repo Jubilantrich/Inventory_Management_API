@@ -94,6 +94,14 @@ WSGI_APPLICATION = 'InventoryM_API.wsgi.application'
 
 DATABASES = {
     'default': {
+        "ENGINE": "django.db.backends.postgresql",
+        "NAME": "jbrtechs_inventory_api",
+        "USER": "jbrtechs_developer",
+        "PASSWORD": "!@JbrDev$$1990",
+        "HOST": "localhost",
+        "PORT": "5432", # default PostgreSQL port
+    },
+    'alter': {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': BASE_DIR / 'db.sqlite3',
     },

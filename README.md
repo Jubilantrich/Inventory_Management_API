@@ -1,4 +1,4 @@
-# Inventory_Management_API
+``` bash # Inventory_Management_API
 alx capstone project
 
 1. Project Title and Description
@@ -68,4 +68,4 @@ Each inventory item is linked to one user (owner/manager).
 Relationship:
 1-to-Many: A single User can manage multiple Inventory items, but each Inventory item is owned by only one User.
 
-
+```

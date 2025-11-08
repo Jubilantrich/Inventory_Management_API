@@ -97,7 +97,7 @@ DATABASES = {
         "ENGINE": "django.db.backends.postgresql",
         "NAME": "jbrtechs_inventory_api",
         "USER": "jbrtechs_developer",
-        "PASSWORD": "!@JbrDev$$1990",
+        "PASSWORD": "*******",
         "HOST": "localhost",
         "PORT": "5432", # default PostgreSQL port
         "OPTIONS": {
@@ -112,7 +112,7 @@ DATABASES = {
         "ENGINE": "django.db.backends.mysql",
         "NAME": "jbrtechs_inventory_api",
         "USER": "jbrtechs_admin",
-        "PASSWORD": "!Jbr$$001",
+        "PASSWORD": "******",
         "HOST": "localhost",
         "PORT": "3306",
         # "NAME": BASE_DIR / "db.sqlite3",
